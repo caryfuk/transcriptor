@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+sources/
+output/
+archive/
+.metadata_never_index
